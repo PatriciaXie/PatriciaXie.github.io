@@ -7,4 +7,6 @@ personal pages
 - 发表文章
 - 杂文笔记
 
+test
+
 生成的Github Pages: [http://patriciaxie.github.io](http://patriciaxie.github.io)
